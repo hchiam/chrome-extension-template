@@ -14,6 +14,10 @@
 
 -> [structure.html](https://github.com/hchiam/chrome-extension-template/blob/master/structure.html) and [chrome storage (get/set)](https://github.com/hchiam/chrome-extension-template/blob/master/brain.js)
 
+## Learn more:
+
+https://css-tricks.com/how-to-build-a-chrome-extension
+
 ## Examples:
 
 https://github.com/marko-polo-cheno/Habit-Tracker-Extension
