@@ -23,3 +23,7 @@ https://css-tricks.com/how-to-build-a-chrome-extension
 https://github.com/marko-polo-cheno/Habit-Tracker-Extension
 
 https://github.com/hchiam/in-browser-style-linter
+
+## Want to create your own Firefox add-on?
+
+Used this template repo as a starting point: <https://github.com/hchiam/learning-firefox-extension>
