@@ -4,6 +4,10 @@
 - Google what you don't know, but understand any code examples you use.
 - Don't be afraid to ask questions!
 
+## Note:
+
+This template is old – consider using something like https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/functional-samples/tutorial.hello-world or https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/functional-samples
+
 ## Conceptual Data Flow:
 
 [manifest.json](https://github.com/hchiam/chrome-extension-template/blob/master/manifest.json)
