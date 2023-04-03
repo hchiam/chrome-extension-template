@@ -24,9 +24,9 @@ https://css-tricks.com/how-to-build-a-chrome-extension
 
 ## Examples:
 
-https://github.com/marko-polo-cheno/Habit-Tracker-Extension
-
 https://github.com/hchiam/in-browser-style-linter
+
+https://github.com/marko-polo-cheno/Habit-Tracker-Extension
 
 ## Want to create your own Firefox add-on?
 
