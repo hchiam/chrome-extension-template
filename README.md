@@ -24,6 +24,8 @@ https://css-tricks.com/how-to-build-a-chrome-extension
 
 ## Examples:
 
+https://github.com/hchiam/form-utility-belt
+
 https://github.com/hchiam/in-browser-style-linter
 
 https://github.com/marko-polo-cheno/Habit-Tracker-Extension
